@@ -102,8 +102,8 @@ consumer = KafkaConsumer(
 
 # Define the column headers
 column_headers = [
-    'VOL_15_AGO', 'VOL_30_AGO', 'VOL_45_AGO', 'VOL_60_AGO', 'VOL_75_AGO', 
-    'VOL_90_AGO', 'VOL_105_AGO', 'VOL_120_AGO', 'VOL_135_AGO', 'VOL_150_AGO',
+    'Traffic_Point_1', 'Traffic_Point_2', 'Traffic_Point_3', 'Traffic_Point_4', 'Traffic_Point_5', 
+    'Traffic_Point_6', 'Traffic_Point_7', 'Traffic_Point_8', 'Traffic_Point_9', 'Traffic_Point_10',
 
     'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday',
     'Hour_0', 'Hour_1', 'Hour_2', 'Hour_3', 'Hour_4', 'Hour_5', 'Hour_6', 'Hour_7',
